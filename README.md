@@ -2,7 +2,7 @@
 
 ✏️  Game programming graduate from kajaani university of applied sciences (KAMK) <br>
 📄  Bachelor’s Degree in Business Information Technology <br>
-💾  Currently working on a solo project called "WildWander" <br>
+💾  Currently working on a solo project called "Wildwander" <br>
 📊  Used to use a lot of school & my friend's custom repository site so github might be a bit empty at the moment <br>
 🏆  Avid gamer and achievement hunter. Currently over 50, 100% games on Steam <br>
 🍕  I also enjoy cooking & listening to music <br>
