@@ -5,7 +5,7 @@
 📄  Bachelor’s Degree in Business Information Technology <br>
 💾  Working on a multiple different game projects <br>
 📊  Used to use a lot of school & my friend's custom repository site so github might be a bit empty at the moment <br>
-🏆  Avid gamer and achievement hunter. Currently over 50, 100% games on Steam <br>
+🏆  Avid gamer and achievement hunter. I have over 50, 100% games on Steam <br>
 🍕  I also enjoy cooking & listening to music <br>
 📈  Currently looking for work. If you got some please hit me up 👍
 
