@@ -30,6 +30,6 @@
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)<br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tabbebro&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tabbebro&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-stats-extended.vercel.app/api?username=tabbebro&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=tabbebro&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
