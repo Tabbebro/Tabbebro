@@ -4,19 +4,16 @@
 ✏️  Game programming graduate from kajaani university of applied sciences (KAMK) <br>
 📄  Bachelor’s Degree in Business Information Technology <br>
 💾  Working on a multiple different game projects <br>
-📊  Used to use a lot of school & my friend's custom repository site so github might be a bit empty at the moment <br>
 🏆  Avid gamer and achievement hunter. I have over 50, 100% games on Steam <br>
-🍕  I also enjoy cooking & listening to music <br>
-📈  Currently looking for work. If you got some please hit me up 👍
+🍕  I also enjoy cooking & listening to music. Favourite bands currently are Black Sabbath, Judas Priest & Dire Straits <br>
+📈  I'm currently working only using Unity because Unreal sucks ass & I don't have time or interest to learn Godot
 
 
 # 💻 Tech Stack:
 #### Game Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) <br>
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br>
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) <br>
+
 #### Other Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
