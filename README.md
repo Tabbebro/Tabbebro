@@ -1,35 +1,21 @@
-# 💫 About Me:
-### Hello I'm Tabbe 👋
+### Hello I'm Tabbe
 
-✏️  Game programming graduate from kajaani university of applied sciences (KAMK) <br>
+✏️  Game programming graduate from Kajaani university of applied sciences (KAMK) <br>
 📄  Bachelor’s Degree in Business Information Technology <br>
 💾  Working on a multiple different game projects <br>
-🏆  Avid gamer and achievement hunter. I have over 50, 100% games on Steam <br>
-🍕  I also enjoy cooking & listening to music. Favourite bands currently are Black Sabbath, Judas Priest & Dire Straits <br>
 📈  I'm currently working only using Unity because Unreal sucks ass & I don't have time or interest to learn Godot
 
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 #### Game Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) <br>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#### Other Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) <br>
-#### Other
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br> 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) <br>
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) <br>
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)<br>
 
-# 📊 GitHub Stats:
-![](https://github-stats-extended.vercel.app/api?username=tabbebro&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=tabbebro&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats:
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tabbebro&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Tabbebro&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Tabbebro&layout=compact&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Tabbebro&layout=compact&langs_count=4&theme=dark_github)
+
+## Cool Repos
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Tabbebro&repo=Tabbebro%2FUnity-ReadOnly-Attribute&description_lines_count=2&theme=dark_github_repocard)](https://github.com/Tabbebro/Unity-ReadOnly-Attribute)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Tabbebro&repo=Tabbebro%2FUnity-StatsMonitor&description_lines_count=2&theme=dark_github_repocard)](https://github.com/Tabbebro/Unity-StatsMonitor)
